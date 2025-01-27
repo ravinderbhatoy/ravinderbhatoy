@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ravinderd.bhatoy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ddh3WKxh7ppVcCvOV1WxLpyqZJgtiXa5/view](https://drive.google.com/file/d/1Ddh3WKxh7ppVcCvOV1WxLpyqZJgtiXa5/view)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Ddh3WKxh7ppVcCvOV1WxLpyqZJgtiXa5/view"/>Resume</a>
 
 - ⚡ Fun fact **I think I am funny**
 

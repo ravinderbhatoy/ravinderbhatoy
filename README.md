@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravinder Bhatoy</h1>
+<h1 align="center">Hi 👋, I'm Ravinder</h1>
 <h3 align="center">A tech enthusiast from India</h3>
 
 - 🌱 I’m currently learning <a href="https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz"/>DSA from striver</a>
